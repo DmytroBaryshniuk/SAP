@@ -1,5 +1,5 @@
-# Java_Learning2023
-This repository was created to track personal growth
+# SAP - Student Application Platform
+This repository of the Student application platform - a project that will help future students select and apply University of their dream!
 
 Functionality visualization:
 
