@@ -7,3 +7,13 @@ Functionality visualization:
 UI:
 
 ![image](https://github.com/DmytroBaryshniuk/SAP/assets/59570580/958489b9-9666-44f7-9907-877988029307)
+
+Technologies Used:
+  Backend:
+    Java / Spring
+    Spring Security
+    PostgreSQL
+  Frontend:
+    HTML/CSS
+    JavaScript / React
+  
